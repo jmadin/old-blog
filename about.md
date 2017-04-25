@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<p class="message">
+  I needed a place to put ideas, thoughts and solutions to problems. 
+</p>
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+![placeholder](/public/images/josh.jpeg "Josh")
+
+I'm an academic at [Macquarie University](http://www.mq.edu.au) in Sydney, where I have a [lab](http://acropora.bio.mq.edu.au) that focuses on quantitative ecology, biophysics and informatics.
+
+My big academic challenges at the moment are:
+
+  * Effects of storm waves on coral reefs
+  * The [Coral Trait Database](https://coraltraits.org)
+  * Coral biogeographical range shifts
+
